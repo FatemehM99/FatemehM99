@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FatemehM99
 
 - 🌱 I’m currently learning ..python.
-- .
+
 - 📫 How to reach me .mim.Fatemeh99@gmail.com..
 
 <!---
